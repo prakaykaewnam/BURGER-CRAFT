@@ -1,7 +1,7 @@
 ## Become an Urban8er!
 Phone: (972) 656-9260
 
-Hours:
+Hours:<br>
 Mon- Thurs: 7:00am – 12:00am<br>
 Fri: 7:00am – 2:00am<br>
 Sat: 9:00am – 2:00am<br>
