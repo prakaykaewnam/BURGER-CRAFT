@@ -14,7 +14,7 @@ Always get exactly what you want with this build-your-own classic. Always get ex
 - Rustic Flatbreads Italian
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Become an Urban8er!
 
