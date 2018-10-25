@@ -1,12 +1,8 @@
-## Become an Urban8er!
-Phone: (972) 656-9260
+## About
+Miss Chaloemkhwan Toh-iad 5810210087<br>
+Miss Ratchaneekorn Sawasdee 5810210883<br>
+Miss Prakaykaew Arala 5810210808<br>
 
-Hours:<br>
-Mon- Thurs: 7:00am – 12:00am<br>
-Fri: 7:00am – 2:00am<br>
-Sat: 9:00am – 2:00am<br>
-Sun: 9:00am – 12:000am<br>
- 
 ### Responsive web is Content is like water, a saying that illustrates the principles of RWD
 
 An example of how various elements of a web page adapt to the screen size of different devices such as the display of a desktop computer, tablet PC and a smartphone
