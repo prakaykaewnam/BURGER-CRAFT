@@ -9,5 +9,5 @@ RESTAURANTS
 - Pho Corner Vietnamese
 - Monster Yogurt Yogurt & Ice Cream
 ```
- ### Learn More About Urban8
+### Learn More About Urban8
 Whether it’s just you or a group of people, Urban8 is the place to be! With 8 chef-driven restaurants offering a variety of cuisine you can forget about your hunger and enjoy the lively atmosphere. Visit us during Happy Hour to take advantage of our drink specials!
