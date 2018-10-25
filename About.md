@@ -2,10 +2,10 @@
 Phone: (972) 656-9260
 
 Hours:
-Mon- Thurs: 7:00am – 12:00am
-Fri: 7:00am – 2:00am
-Sat: 9:00am – 2:00am
-Sun: 9:00am – 12:000am
+<br>Mon- Thurs: 7:00am – 12:00am<br>
+<br>Fri: 7:00am – 2:00am<br>
+<br>Sat: 9:00am – 2:00am<br>
+<br>Sun: 9:00am – 12:000am<br>
  
 ### Responsive web is Content is like water, a saying that illustrates the principles of RWD
 
