@@ -23,3 +23,5 @@ Wikibooks page Cascading Style Sheets
 vte
 Not to be confused with Responsiveness.
 Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD.[1] Content, design and performance are necessary across all devices to ensure usability and satisfaction
+
+### "Homework of 308-364 ADVANCE WEB PROGRAMMING"
